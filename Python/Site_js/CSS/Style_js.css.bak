@@ -1,0 +1,24 @@
+h1{
+	text-align : center;
+	color: white;
+}
+.para{
+	color : white;
+	font-size : 20px;
+.rouge {
+	color : red;
+	font-size : 20px;
+}
+
+.vert {
+	color : green;
+	font-size:20px;
+}
+
+button{
+	border-radius : 20px;
+	border-width : 3px;
+	border-color: purple;
+	color: white;
+	background: transparent;
+}

@@ -1,0 +1,108 @@
+h1
+		{
+			text-align:center;
+			background-color:black;
+		}
+		h2
+		{
+			front-style:italic;
+			color:#83f52c;
+		}
+		img 
+		{
+            max-width:20%;
+            height:auto;
+			border-radius: 8px;
+			float: right;
+        }
+		#boite1 
+		{
+		width: 300px;
+		border: 10px solid green;
+		padding: 25px;
+		margin: 50px;
+		}
+		#soustitre
+		{
+		border : 3px dashed purple;
+		background-color : #83f52c;
+		color : black;
+		width: 50%;
+		text-align:center;
+		}
+		#boitespeciale
+		{
+		border : 3px dashed #83f52c;
+		background-color : purple;
+		color : black;
+		width: 50%;
+		text-align:center;
+		}
+		label 
+		{
+		font: 1rem 'Fira Sans', sans-serif;
+		}
+		input
+		{
+		margin: .4rem;
+		}
+		label,
+		footer
+		{
+			font-family: sans-serif;
+		}
+
+		label
+		{
+			font-size: 1rem;
+			padding-right: 10px;
+		}
+
+		select 
+		{
+			font-size: .9rem;
+			padding: 2px 5px;
+		}
+
+		footer 
+		{
+			font-size: .8rem;
+			position: absolute;
+			bottom: 30px;
+			left: 30px;
+		}
+
+		.output 
+		{
+			background: center/cover no-repeat url('/media/cc0-images/hamster.jpg');
+			position: relative;
+		}
+		#boite2
+		{
+		width: 300px;
+		border: 5px solid purple;
+		padding: 15px;
+		margin: 10px;
+		border-radius: 8px;
+		}
+		
+		.nouvelle
+		{
+		width: 300px;
+		border: 10px solid green;
+		padding: 25px;
+		margin: 50px;
+		}
+		
+		.change
+		{
+		width: 300px;
+		border: 10px purple;
+		padding: 25px;
+		margin: 50px;
+		background-color: solid green;
+		}
+		
+		
+		
+		

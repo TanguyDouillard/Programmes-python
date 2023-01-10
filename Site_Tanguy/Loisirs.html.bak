@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>loisirs</title>
+    <style type="text/css">
+#divsport {
+  display: block;
+  position: absolute;
+  font-family: "Footlight MT";
+}
+
+#Image1 {
+  position: absolute;
+  top: 500px;
+  left: 100px;
+}
+
+#ImageGuitare {
+  top: 100px;
+  left: 100px;
+  bottom: 100px;
+  position: absolute;
+}
+
+#ImageSport {
+  top: 375px;
+  left: 540px;
+  position: absolute;
+}
+
+#Texte_Guitare {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  border-bottom-style: none;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  font-family: "Footlight MT";
+}
+
+#Texte_Foot {
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  font-weight: normal;
+  text-align: left;
+  font-family: "Footlight MT";
+}
+
+</style></head>
+  <body>
+    <h1><a href="index.html">Accueil</a> <span style="color: #0000ee;">〜</span><a
+        href="Loisirs.html">Loisirs</a> 〜<a href="Chanteur.html">Chanteur</a> 〜<a
+        href="Portrait_chinois.html">Portrait chinois</a></h1>
+    <h1 style="text-align: left;"><a href="index.html"></a><a href="Portrait_chinois.html"></a></h1>
+    <h1 style="    background-color: red; text-align: center;">Mes loisirs
+      préférés&nbsp;&nbsp;&nbsp; </h1>
+    <h3 style="background-color: yellow; text-align: left;">La guitare</h3>
+    <div style="background-color: white; top: 201px; left: 230px; width: 383px; height: 63px;"
+      id="Texte_Guitare">Depuis 9 ans je pratique régulièrement la guitare. <br>
+      C'est un instrument que j'apprécie beaucoup depuis mon plus jeune âge.</div>
+    <p style="background-color: white;"><br>
+    </p>
+    <p style="background-color: white;"><br>
+    </p>
+    <p style="background-color: white;"><br>
+    </p>
+    <p style="background-color: white;"><br>
+    </p>
+    <h3 style="text-align: left; background-color: #ffff66;">Sport</h3>
+    <div id="divsport" style="top: 414px; left: 11px; width: 490px; height: 62px;">&nbsp;J'aime
+      vraiment beaucoup le sport, que ce soit à regarder comme à le pratiquer.<br>
+      C'est vraiment important aussi je trouve de pratiquer le sport car on fait
+      attention à notre corps,<br>
+      Mais on se fait des amis aussi en sport coopératif.</div>
+    <div> </div>
+    <div><br>
+    </div>
+    <div> </div>
+    <div><br>
+    </div>
+    <div> </div>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <h3 style=" background-color: #ffff66;">Football</h3>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <div id="Texte_Foot" style="top: 586px; left: 247px;">Le Football est un de
+      mes sports préférés. <br>
+      C'est un sport coopératif qui est excellent pour se faire des amis !<br>
+      Le Foot et moi c'est toute une histoire...</div>
+    <div id="ImageSport" style="top: 296px; left: 539px;"><img src="Images/image004.jpg"
+        alt="" style="top: 2px; left: 3px; width: 302px; height: 168px;"></div>
+    <div id="Image1" style="left: 846px; top: 491px;"><img src="Images/image002.jpg"
+        alt=""></div>
+    <div id="ImageGuitare" style="top: 84px; left: 845px; width: 296px; height: 505px;">
+      <img src="Images/image003.jpg" alt="" style="top: 0px; left: 0px; width: 279px; height: 186px;">
+    </div>
+  </body>
+</html>

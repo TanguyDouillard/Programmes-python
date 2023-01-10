@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Chanteur</title>
+    <style type="text/css">
+#img {
+  top: 50px;
+  left: 1000px;
+}
+
+#Nekfeu {
+  top: 100px;
+  display: block;
+  left: 100px;
+  bottom: 100px;
+  position: absolute;
+}
+
+#Texte_musique {
+  top: 100px;
+  left: 100px;
+}
+
+#Alunissons {
+  top: 100px;
+  left: 100px;
+  position: absolute;
+}
+
+#Dans_lunivers {
+  top: 100px;
+  position: absolute;
+}
+
+#Koala_mouillé {
+  position: absolute;
+}
+
+#Elle_pleut {
+  top: 100px;
+  position: absolute;
+}
+
+</style></head>
+  <body id="Texte_musique">
+    <h1><a href="index.html">Accueil</a> <span style="color: #0000ee;">〜</span><a
+        href="Loisirs.html">Loisirs</a> 〜<a href="Chanteur.html">Chanteur</a> 〜<a
+        href="Portrait_chinois.html">Portrait chinois</a></h1>
+    <h1><a href="index.html"></a><a href="Portrait_chinois.html"></a></h1>
+    <h1 style="background-color: white; text-align: center;"></h1>
+    <audio src="Son/Nekfeu_Elle_pleut.m4a" preload="none" controls="controls" autoplay="autoplay"></audio>
+    <h1 style="background-color: red; text-align: center;">Nekfeu</h1>
+    <p><br>
+    </p>
+    <p>Nekfeu est un de mes rappeurs favoris.</p>
+    <div style=" background-color: white; float: left;"></div>
+    <p></p>
+    <h2 style="background-color: #cc0000; text-align: center;">Certains de ses
+      titres connus</h2>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <h1><br>
+    </h1>
+    <div id="Dans_lunivers" style="top: 375px; left: 25px;">- Dans l'Univers
+      (feat Vanessa Paradis)</div>
+    <div> </div>
+    <div id="Elle_pleut" style="top: 460px; left: 26px;">- Elle pleut (feat
+      Nemir)</div>
+    <div> </div>
+    <div id="Alunissons" style="top: 403px; left: 28px;">- Alunissons</div>
+    <div> </div>
+    <div id="Koala_mouillé" style="top: 433px; left: 25px;">- Koala mouillé</div>
+    <h1 style="background-color: white; text-align: center; top: 346px; left: 432px;"
+      id="Nekfeu"><img src="Images/image001.jpg" alt="" style="width: 300px; height: 170px;"></h1>
+    <p></p>
+  </body>
+</html>

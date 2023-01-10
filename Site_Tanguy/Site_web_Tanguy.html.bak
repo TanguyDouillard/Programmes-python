@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Site_web_Tanguy</title>
+  </head>
+  <body>
+    <p style="text-align: center;"><img src="file:///P:/Documents/Informatique/Site_Tanguy/Images/avatar-gratuit%284%29.png"
+        alt="" style="width: 302px; height: 302px; margin-left: -5px;"></p>
+    <h2 style="  text-align: center; background-color: red;"><span style="color: #330033;">Tanguy
+        Douillard <br>
+      </span></h2>
+    <h3 style="  text-align: center; background-color: red;"><span style="color: #330033;">2°4</span></h3>
+  </body>
+</html>
